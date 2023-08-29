@@ -1,0 +1,12 @@
+.creator-container {
+    max-width: 1500px;
+    margin: 700px auto;
+    display: grid; 
+    grid-template-columns: repeat(2, 1fr); 
+    gap: 60px;
+    padding-bottom: 7rem;
+}
+
+.empty-message {
+    color: white;
+}

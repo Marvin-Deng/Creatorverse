@@ -1,0 +1,43 @@
+.input-form {
+    margin-top: 650px;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.title {
+    color: #3b8adf;
+}
+
+.social-description {
+    display: block;
+    font-size: 17px;
+    color: white;
+    font-style: italic;
+    margin-top: -20px;
+    margin-bottom: 20px;
+}
+
+input[type="text"] {
+    width: 100%;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: white;
+    color: black;
+}
+
+label {
+    color: white;
+}
+
+small {
+    display: block;
+    font-size: 12px;
+    color: white;
+    font-style: italic;
+}
