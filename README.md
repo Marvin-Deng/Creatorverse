@@ -6,5 +6,6 @@ CreatorVerse is a web application designed to empower users to showcase and cura
 - Developing reusable and responsive components and pages for improved code organization
 - Utilizing query parameters in URLs to embed and pass data as props between different pages
 
+## Demo
 <img src='https://github.com/mdeng376/Creatorverse/blob/main/creatorverse.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
